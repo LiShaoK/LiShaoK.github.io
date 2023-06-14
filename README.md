@@ -1,6 +1,7 @@
 ## B2C电子商务解决方案
 
-一、问题背景：  ~
+一、问题背景：  
+
     近年来我国电子商务发展非常迅速，在加入WTO后，市场将更加开放，将成为电子商务在全球发展最快、潜力最大的地区之一。以下是我国电子商务发展趋势预测。硬件大发展互联网设施大发展。计算机网络设施进一步完善，带宽与速度有显著提高。
     企业E化进一步普及。随着信息化建设的深入，目前，我国拥有约15000家大中型企业和1000万家小企业，预计到20xx年时将有50%~70%左右的企业实现现代化管理。对从事外贸的企业，在20xx年70%以上企业力争有能力运用电子商务的手段进行国际贸易活动。
 
@@ -25,6 +26,3 @@
     恩科的企业电子商务整体解决方案的实施将在以下几个方面带给企业显著的效果:降低成本，增加销售；提高企业工作效率；扩展市场范围；增加与客户良好的沟通手段；为客户提供全天候的服务；为顾客提供个性化服务。
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sooopps/sooopps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
