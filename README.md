@@ -20,34 +20,7 @@
     许多企业认为电子商务对于自己还不现实，不实用，而许多企业已经开始意识到电子商务是保持竞争力的一个重要手段。对于拥有大量顾客的企业，比如零售业、制造业、服务业等，电子商务技术正逐渐成为业务经营中至关重要的部分。传统的商业结构是适合大规模化市场，市场正在向多元化、个性化发展，企业面临竞争和效益下降的压力，说明传统的经营方式正面临挑战。传统经营中建立的内部工作流程需要花费大量成本，而新的公司采用电子商务模式，不受传统方式的约束，无需过多成本和人员的开销，从而能以低成本提供更快更好的服务。
     恩科的企业电子商务整体解决方案的实施将在以下几个方面带给企业显著的效果:降低成本，增加销售；提高企业工作效率；扩展市场范围；增加与客户良好的沟通手段；为客户提供全天候的服务；为顾客提供个性化服务。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sooopps/sooopps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
